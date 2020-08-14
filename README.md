@@ -261,7 +261,7 @@ Adding a suffix YR1 to all variable names using Teds abd then Barts tools
     ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/                              
     2597                                                                                                                                
     2598  %loadPackage(macroArray)                                                                                                      
-    ERROR: The encryption provider libraries cannot be found.                                                                           
+                                                                             
     NOTE: Fileref= P7B224D3                                                                                                             
           Physical Name= C:\Users\Roger\AppData\Local\Temp\SAS Temporary Files\_TD11348_T7610_\macroarray.zip                           
                                                                                                                                         
